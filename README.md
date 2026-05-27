@@ -64,4 +64,4 @@ This repository contains the projects, assignments, and practice work completed 
 - Improved problem-solving and development skills
 
 ## Author
-Rohan
+Sarvesh Tiwari
